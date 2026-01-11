@@ -1,0 +1,8 @@
+body {
+  background-image: url("src/assets/Fondo1.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/* Mobile rules moved to src/mobile.css */
