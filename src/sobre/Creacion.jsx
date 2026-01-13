@@ -4,10 +4,10 @@ import './Creacion.css';
 const Creacion = () => {
   return (
     <div className="galeria">
-      <img src="src\assets\lacuenta2.jpg" alt="Creacion de Nosotros" />
-      <img src="src\assets\flores.jpg" alt="Creacion de Nosotros" />
-      <img src="src\assets\corazon-roto2.jpg" alt="Creacion de Nosotros" />
-      <img src="src\assets\navidad.jpg" alt="Creacion de Nosotros" />
+      <img src="public\lacuenta2.jpg" alt="Creacion de Nosotros" />
+      <img src="public\flores.jpg" alt="Creacion de Nosotros" />
+      <img src="public\corazon-roto2.jpg" alt="Creacion de Nosotros" />
+      <img src="public\navidad.jpg" alt="Creacion de Nosotros" />
     </div>
   );
 };
