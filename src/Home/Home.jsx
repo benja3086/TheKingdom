@@ -3,7 +3,7 @@ import "./Home.css";
 function Home() {
   return (
     <div>
-      <h1>The kingdom WEB</h1>
+      <h1>The Kingdom </h1>
         <div className="menu">
         <a href="#nosotros" className="sobremi">
           Nosotros

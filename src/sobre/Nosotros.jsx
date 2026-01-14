@@ -9,7 +9,7 @@ const SobreNosotros = () => {
         Somos un grupo de jóvenes que salimos a las calles de Tucumán
         a compartir el evangelio
       </h4>
-
+    <div className='socials'>
    <a
   href="https://www.instagram.com/thekingdom.arg/"
   target="_blank"
@@ -17,11 +17,24 @@ const SobreNosotros = () => {
   className="ig"
 >
   <img
+    className='igimg'
     src="https://cdn-icons-png.flaticon.com/512/174/174855.png"
     alt="Instagram"
   />
 </a>
-
+ <a
+  href="https://www.tiktok.com/@thekingdom.arg"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="tikTok"
+>
+  <img
+  className='tiktokimg'
+    src="/tiktok.svg"
+    alt="TikTok"
+  />
+</a>
+</div>
 
     </section>
   );

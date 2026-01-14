@@ -5,4 +5,11 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-/* Mobile rules moved to src/mobile.css */
+@media (max-width: 768px) {
+  body {
+    background-attachment: scroll; 
+    background-position: center top;
+    background-size: cover;
+    min-height: 100dvh; 
+  }
+}
