@@ -10,6 +10,12 @@ h4 {
   margin-top: 10px;
 }
 
+img {
+  display: block;
+  margin: 20px auto;
+  height: auto;
+  width: 50px;
+}
 
 img.ig {
   width: 120px;
@@ -153,9 +159,9 @@ a.tikTok:hover::before {
     padding: 5px 10px;
   }
 
-  .igimg {
+  img.ig {
     width: 90px;
-    height: 230px;
+    height: 20px;
   }
 
   a.tikTok {
