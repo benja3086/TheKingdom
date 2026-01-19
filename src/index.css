@@ -1,9 +1,13 @@
 body {
-  background-image: url("/Fondo1.jpg");
+  background-image: url("/Fondo4.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
+  font-family: "Gravitas One", serif;
+  font-weight: 400;
+  font-style: normal;
+
 }
 @media (max-width: 768px) {
   body {

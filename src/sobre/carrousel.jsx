@@ -21,8 +21,26 @@ export default function Carousel() {
       <SwiperSlide>
         <img src="/corazon-roto.jpg" />
       </SwiperSlide>
+       <SwiperSlide>
+        <img src="/lacuenta.jpg" />
+      </SwiperSlide>
       <SwiperSlide>
         <img src="/navidad.jpg" />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img src="/flores.jpg" />
+      </SwiperSlide>
+       <SwiperSlide>
+        <img src="/corazon-roto2.jpg" />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img src="/carteles.jpg" />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img src="/pulseritas.jpg" />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img src="/pulseritas2.jpg" />
       </SwiperSlide>
     </Swiper>
     </div>
