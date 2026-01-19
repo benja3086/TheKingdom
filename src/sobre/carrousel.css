@@ -3,7 +3,10 @@
   height: 200px;
   object-fit: cover;
   border-radius: 16px;
+  display: block;
+  margin: 20px auto;
 }
+
 @media (max-width: 768px) {
 .carrousel img {
   width: 350px;
