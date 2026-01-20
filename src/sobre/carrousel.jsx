@@ -27,8 +27,14 @@ export default function Carousel() {
       <SwiperSlide>
         <img src="/navidad.jpg" />
       </SwiperSlide>
+          <SwiperSlide>
+        <img src="/carteles2.jpg" />
+      </SwiperSlide>
       <SwiperSlide>
         <img src="/flores.jpg" />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img src="/pulseritas2.jpg" />
       </SwiperSlide>
        <SwiperSlide>
         <img src="/corazon-roto2.jpg" />
@@ -40,7 +46,7 @@ export default function Carousel() {
         <img src="/pulseritas.jpg" />
       </SwiperSlide>
       <SwiperSlide>
-        <img src="/pulseritas2.jpg" />
+        <img src="/carteles3.jpg" />
       </SwiperSlide>
     </Swiper>
     </div>
