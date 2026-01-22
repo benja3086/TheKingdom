@@ -29,7 +29,7 @@ const Contacto = () => {
         <div className="form-control">
           <input type="text" name="user_name" required />
           <label>
-            {"Username".split("").map((c, i) => (
+            {"Nombre y Apellido".split("").map((c, i) => (
               <span key={i} style={{ transitionDelay: `${i * 50}ms` }}>
                 {c}
               </span>
