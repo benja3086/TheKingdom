@@ -5,6 +5,7 @@ import SobreNosotros from "./sobre/Nosotros.jsx";
 import Carousel from "./sobre/carrousel.jsx";
 import Proposito from "./Proposito/Proposito.jsx"; 
 import './App.css';
+import Contacto from "./Contacto/Contacto.jsx";
 function App() {
   return (
     <div>
@@ -12,6 +13,7 @@ function App() {
       <Proposito />
       <Carousel/>
       <SobreNosotros />
+      <Contacto />
     </div>
   );
 }
