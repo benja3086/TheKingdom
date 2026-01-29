@@ -8,13 +8,13 @@ import './App.css';
 import Contacto from "./Contacto/Contacto.jsx";
 function App() {
   return (
-    <div>
+    <main>
       <Home />
       <Proposito />
       <Carousel/>
       <SobreNosotros />
       <Contacto />
-    </div>
+    </main>
   );
 }
 

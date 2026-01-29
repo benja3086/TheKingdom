@@ -2,7 +2,7 @@ import React from "react";
 import "./Proposito.css";
 function Proposito() {
   return (
-    <div className="proposito">
+    <section className="proposito">
       <h3>El proposito de The Kingdom</h3>
       <p>
         Es poder compartir el nombre de Jesús
@@ -14,7 +14,7 @@ function Proposito() {
         <br />
         Marcos 16:15
       </p>
-    </div>
+    </section>
   );
 }
 

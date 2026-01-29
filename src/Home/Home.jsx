@@ -2,17 +2,17 @@ import React from "react";
 import "./Home.css";
 function Home() {
   return (
-    <div>
+    <header>
       <h1>The Kingdom </h1>
-        <div className="menu">
+      <nav className="menu">
         <a href="#nosotros" className="sobremi">
           Nosotros
         </a>
         <a href="#creaciones" className="sobremi">
           Creaciones
         </a>
-      </div>
-    </div>
+      </nav>
+    </header>
   );
 }
 

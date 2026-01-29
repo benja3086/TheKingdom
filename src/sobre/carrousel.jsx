@@ -4,7 +4,7 @@ import { Autoplay } from "swiper/modules";
 import "./carrousel.css";
 export default function Carousel() {
   return (
-    <div className="carrousel">
+    <section className="carrousel">
     <Swiper
       modules={[Autoplay]}
       spaceBetween={20}
@@ -49,6 +49,6 @@ export default function Carousel() {
         <img src="/carteles3.jpg" />
       </SwiperSlide>
     </Swiper>
-    </div>
+    </section>
   );
 }

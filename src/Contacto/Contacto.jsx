@@ -23,8 +23,8 @@ const Contacto = () => {
   };
 
   return (
-    <div>
-      <h1>Contactanos</h1>
+    <section>
+      <h2>Contactanos</h2>
       <form ref={form} onSubmit={sendEmail} className="contacto-wrapper">
         <div className="form-control">
           <input type="text" name="user_name" required />
@@ -63,7 +63,7 @@ const Contacto = () => {
           <span>Enviar</span>
         </button>
       </form>
-    </div>
+    </section>
   );
 };
 export default Contacto;
